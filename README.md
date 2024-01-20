@@ -44,10 +44,16 @@ The project provided crucial insights for marketing strategies during the Diwali
 Skills Utilized
 
 Data Cleaning
+
 Exploratory Data Analysis
+
 Statistical Analysis
+
 Data Visualization
+
 Project Management
+
+
 Conclusion
 
 Successfully translated raw data into actionable intelligence, offering valuable strategic guidance for business decisions during the festive season. This project showcases my proficiency in data analysis, strategic thinking, and ability to derive meaningful business insights, making it a valuable addition to my professional portfolio.
